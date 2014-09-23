@@ -74,5 +74,4 @@ describe('webmaker-mailroom', function() {
 
   // Template
   makeTest('generator', generatorData, true);
-
 });

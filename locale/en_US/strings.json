@@ -31,5 +31,9 @@
   "r_u_a_e_1": "This is a reminder that you have an upcoming event.",
   "r_u_a_e_2": "Hosted by:",
   "r_u_a_e_3": "Enjoy your event!",
-  "test": "test"
+  "test": "test",
+  "questions": {
+    "message": "Questions? <a href=\"https://support.mozilla.org/en-US/products/webmaker\" style=\"color: #27AAE1; text-decoration: none;\">Ask our helpful community</a> of Mentors and Webmakers like you.",
+    "description": "text about and link to support"
+  }
 }
